@@ -7,6 +7,7 @@ ms.date: 12/20/2018
 ms.topic: article
 ms.prod: microsoft-edge
 keywords: progressive web apps, PWA, Edge, Windows, UWP, Xbox, Xbox One, TVJS
+uid: testing-uid
 ---
 
 # Progressive Web Apps for Xbox One
