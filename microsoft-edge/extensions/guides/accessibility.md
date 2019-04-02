@@ -11,7 +11,7 @@ keywords: edge, web development, html, css, javascript, developer
 ---
 
 # Accessibility
-[!INCLUDE[B](../inclusion.md)]
+[!INCLUDE[](../inclusion.md)]
 
 ## Creating accessible extension icons for Microsoft Edge
 
