@@ -1,3 +1,1 @@
-# some title
-
-## some text
+some text
