@@ -10,8 +10,6 @@ ms.technology: pwa
 keywords: progressive web apps, PWA, Edge, JavaScript, Windows, UWP, Microsoft Store
 ---
 
-# Progressive Web Apps on Windows
-
 With [Progressive Web Apps](https://developer.mozilla.org/en-US/Apps/Progressive) (or simply *PWA*s) you dont have to decide between using open web technologies for cross-platform interoperability and providing your users with a native app-like experience customized for their device. That's because PWAs are just websites that are [progressively enhanced](https://alistapart.com/article/understandingprogressiveenhancement) to function like native apps on supporting platforms. The qualities of a PWA combine the best of the web and native apps. 
 
 :::row:::
