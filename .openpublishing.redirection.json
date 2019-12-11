@@ -148,7 +148,7 @@
     {
       "source_path": "microsoft-edge/f12-devtools-guide/developer-tools-keyboard-shortcuts.md",
       "redirect_url": "/microsoft-edge/devtools-guide#general-shortcuts",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "microsoft-edge/dev-guide/browser/flash.md",
@@ -684,6 +684,11 @@
       "source_path": "microsoft-edge/webview/WebResourceRequestedEvent.md",
       "redirect_url": "/microsoft-edge/hosting/webview/WebResourceRequestedEvent",
       "redirect_document_id": true
+    },
+    {
+      "source_path": "microsoft-edge/extensions/microsoft-browser-extension-policy.md",
+      "redirect_url": "https://docs.microsoft.com/en-us/legal/windows/agreements/microsoft-browser-extension-policy",
+      "redirect_document_id": false
     }
   ]
 }
