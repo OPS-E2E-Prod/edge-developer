@@ -1,0 +1,56 @@
+### YamlMime:Landing
+
+title: Azure IoT Edge
+summary: Azure IoT Edge is an Internet of Things (IoT) service that builds on top of IoT Hub. This service is meant for customers who want to analyze data on devices, or "at the edge," instead of in the cloud. By moving parts of your workload to the edge, your devices can spend less time sending messages to the cloud and react more quickly to events.
+metadata:
+  description: add description for testing
+  title: Test title
+  ms.topic: landing-page
+
+landingContent:
+  - title: Develop for Linux devices
+    linkLists: 
+      - linkListType: quickstart
+        links: 
+          - text: Deploy your first IoT Edge module to a Linux device
+            url: for-link.md
+      - linkListType: tutorial
+        links: 
+          - text: Develop IoT Edge modules for Linux devices
+            url: for-link-1.md
+      - linkListType: how-to-guide
+        links: 
+          - text: Use Visual Studio Code to develop and debug modules
+            url: for-link.md
+  - title: Prepare for production scenarios
+    linkLists: 
+      - linkListType: concept
+        links: 
+          - text: Understand automatic deployments
+            url: for-link.md
+          - text: Platform support
+            url: for-link.md
+          - text: Production deployment checklist
+            url: for-link.md
+      - linkListType: how-to-guide
+        links: 
+          - text: Deploy and monitor at scale using the Azure CLI
+            url: for-link.md
+          - text: Create a CI/CD pipeline with Azure Pipelines
+            url: for-link-1.md
+      - linkListType: deploy
+        links:
+          - text: REST API for IoT Hub
+            url: https://docs.microsoft.com/rest/api/iothub/
+  - title:  Deploy AI to the edge
+    linkLists: 
+      - linkListType: tutorial
+        links: 
+          - text: Deploy Azure Machine Learning as an IoT Edge module
+            url: for-link-1.md
+          - text: Perform image classification at the edge with Custom Vision Service
+            url: for-link.md
+      - linkListType: deploy
+        links: 
+          - text: Find Azure Cognitive Services modules in the Azure Marketplace
+            url: https://azuremarketplace.microsoft.com/marketplace/apps/category/internet-of-things?subcategories=iot-edge-modules&search=azure%20cognitive%20services
